@@ -1,7 +1,7 @@
-num1 = int(input("Input number 1: "))
-num2 = int(input("Input number 2: "))
+num1 = 7 # int(input("Input number 1: "))
+num2 = 6 # int(input("Input number 2: "))
 
-operation = input("What mathematical operation would you like to use?")
+operation = "+" # input("What mathematical operation would you like to use?")
 
 def add(a, b):
     return a + b
